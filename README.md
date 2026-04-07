@@ -6,11 +6,11 @@ This project builds a Retrieval-Augmented Generation (RAG) system that allows us
  Key Features
 
 🔹 PDF Upload & Parsing – Effortlessly upload PDF files for automated text extraction and chunking. <br>
-🔹 Vector Store Integration – Uses AstraDB (powered by Cassandra) as a vector database to store embeddings for efficient document     retrieval.
-🔹 LangChain RAG Pipeline – Integrates Retrieval-Augmented Generation for factual and context-based responses. 
-🔹 Semantic Search – Retrieve the most relevant document chunks before generating responses. 
-🔹 Chat Interface – User-friendly interface to ask questions and get concise, context-aware answers. 
-🔹 Memory Integration – Keeps conversation history to maintain context over multiple queries.
+🔹 Vector Store Integration – Uses AstraDB (powered by Cassandra) as a vector database to store embeddings for efficient document     retrieval.<br>
+🔹 LangChain RAG Pipeline – Integrates Retrieval-Augmented Generation for factual and context-based responses. <br>
+🔹 Semantic Search – Retrieve the most relevant document chunks before generating responses. <br>
+🔹 Chat Interface – User-friendly interface to ask questions and get concise, context-aware answers. <br>
+🔹 Memory Integration – Keeps conversation history to maintain context over multiple queries.<br>
  
  Tech Stack
 
