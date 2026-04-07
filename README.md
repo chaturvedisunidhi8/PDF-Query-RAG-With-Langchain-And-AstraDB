@@ -22,17 +22,17 @@ This project builds a Retrieval-Augmented Generation (RAG) system that allows us
 
  How It Works
 
-1️ Upload a PDF
-2️ The system extracts and embeds text chunks 
-3️ AstraDB stores these embeddings for fast retrieval 
-4️ User asks a question 
-5️ Relevant chunks are retrieved and passed to the LLM 
-6️ A detailed, contextually accurate response is generated 
+1️ Upload a PDF <br>
+2️ The system extracts and embeds text chunks <br>
+3️ AstraDB stores these embeddings for fast retrieval <br>
+4️ User asks a question <br>
+5️ Relevant chunks are retrieved and passed to the LLM <br>
+6️ A detailed, contextually accurate response is generated <br>
 
  Use Cases
 
- Academic Research Summaries
- Book or Report Query Systems
- Business Document Analysis
- Legal / Policy Document Q&A
- Financial or Technical Report Assistants
+ Academic Research Summaries<br>
+ Book or Report Query Systems<br>
+ Business Document Analysis<br>
+ Legal / Policy Document Q&A<br>
+ Financial or Technical Report Assistants<br>
