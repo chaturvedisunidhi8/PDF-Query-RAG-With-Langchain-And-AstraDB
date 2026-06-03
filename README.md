@@ -3,7 +3,7 @@
  Project Overview
 This project builds a Retrieval-Augmented Generation (RAG) system that allows users to query and chat with PDF documents intelligently. It combines the power of LangChain, AstraDB, and LLMs (like Groq or OpenAI) to deliver accurate, context-aware answers from PDF data.
 
- Key Features
+ Key Features:-
 
 🔹 PDF Upload & Parsing – Effortlessly upload PDF files for automated text extraction and chunking. <br>
 🔹 Vector Store Integration – Uses AstraDB (powered by Cassandra) as a vector database to store embeddings for efficient document     retrieval.<br>
